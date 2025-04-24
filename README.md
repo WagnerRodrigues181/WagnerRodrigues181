@@ -54,7 +54,7 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 ---
 
-🎯 *Busco não apenas escrever código, mas construir experiências que entreguem valor real. Copiar, testar, quebrar a cara, ajustar e entregar — essa é a escola da vida dev. Aqui, teoria só vira ouro quando passa pelo fogo da prática.*
+🎯 *Busco não apenas escrever código, mas construir experiências que entreguem valor real. Cada linha de código escrita é um passo mais próximo da excelência.*
 <!---
 WagnerRodrigues181/WagnerRodrigues181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

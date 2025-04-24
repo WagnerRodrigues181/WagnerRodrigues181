@@ -6,7 +6,7 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 🎓 Em 2023, após concluir o ensino médio, iniciei minha jornada como dev na escola de tecnologia **Trybe**. Desde então, já desenvolvi mais de **30 projetos práticos**, sendo **10 deles com foco total em Front-end moderno**.
 
-📌 Atualmente, estudo a fundo **otimização de código**, **arquitetura de aplicações** e **boas práticas de desenvolvimento Front-end**. Busco oportunidades para aplicar e aprimorar minhas habilidades em **React**, **TypeScript**, **Hooks**, **CSS** e muito mais.
+📌 Atualmente, estou criando projetos com **React + TypeScript** para revisar meus conhecimentos e fortalecer meu portfólio. Meu foco é simples: construir, testar, errar e aprender com isso. A prática ensina o que nenhum curso ensina — e é no “desenrolo” que o dev de verdade se forma.
 
 💬 Idiomas: Português (nativo), Inglês (intermediário)
 
@@ -54,8 +54,7 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 ---
 
-🎯 *Busco não apenas escrever código, mas construir experiências que entreguem valor real. Cada linha de código escrita é um passo mais próximo da excelência.*
-
+🎯 *Busco não apenas escrever código, mas construir experiências que entreguem valor real. Copiar, testar, quebrar a cara, ajustar e entregar — essa é a escola da vida dev. Aqui, teoria só vira ouro quando passa pelo fogo da prática.*
 <!---
 WagnerRodrigues181/WagnerRodrigues181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

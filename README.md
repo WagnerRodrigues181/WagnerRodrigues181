@@ -49,7 +49,7 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 ## 📫 Como me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/wagner-rodrigues-trybe/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wagner-rodrigues-monteiro/)
 - 💻 Confira meus repositórios aqui no GitHub :)
 
 ---

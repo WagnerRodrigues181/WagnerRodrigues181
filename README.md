@@ -6,7 +6,7 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 🎓 Em 2023, após concluir o ensino médio, iniciei minha jornada como dev na escola de tecnologia **Trybe**. Desde então, já desenvolvi mais de **30 projetos práticos**, sendo **10 deles com foco total em Front-end moderno**.
 
-📌 Atualmente, estou criando projetos com **React + TypeScript** para revisar meus conhecimentos e fortalecer meu portfólio. Meu foco é simples: construir, testar, errar e aprender com isso. A prática ensina o que nenhum curso ensina — e é no “desenrolo” que o dev de verdade se forma.
+📌 Atualmente, estou criando projetos com **React + TypeScript** para revisar meus conhecimentos e fortalecer meu portfólio. Meu foco é simples: construir, testar, errar e aprender com isso. A prática ensina o que nenhum curso ensina, e é no “desenrolo” que o dev de verdade se forma.
 
 💬 Idiomas: Português (nativo), Inglês (intermediário)
 

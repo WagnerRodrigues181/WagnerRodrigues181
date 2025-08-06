@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Wagner Rodrigues
 
-Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apaixonado por construir soluções web que sejam funcionais, intuitivas e visualmente atraentes. A programação é onde encontrei minha vocação — o campo onde minha mente se realiza e minha criatividade se torna útil.
+Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apaixonado por construir soluções web que sejam funcionais, intuitivas e visualmente atraentes. A programação é onde encontrei minha vocação: o campo onde minha mente se realiza e minha criatividade se torna útil.
 
 ## 🚀 Sobre mim
 

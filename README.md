@@ -14,8 +14,6 @@ Sou um desenvolvedor web **Fullstack**, atualmente focado em **Front-end**, apai
 
 ## 🛠️ Tech Stack
 
-Beleza, meu rapaz. Vamos completar sua lista de techs de back-end com Sequelize, SQLite e Prisma. Segue o ajuste:
-
 ---
 
 ### 🧠 Front-end

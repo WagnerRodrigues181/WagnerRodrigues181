@@ -4,7 +4,7 @@ Desenvolvedor Full-Stack com foco em Front-End, especializado em criar soluçõe
 
 ## Sobre Mim
 
-Formado pela Trybe em 2023, acumulo experiência prática em mais de 30 projetos, com ênfase em 10 aplicações front-end modernas. Meu percurso inclui desenvolvimento de aplicações full-stack, integração de APIs e otimização de interfaces responsivas. Atualmente, estou refinando conhecimentos em React e TypeScript por meio de projetos pessoais, com o objetivo de fortalecer meu portfólio e preparar-me para desafios profissionais em equipes ágeis.
+Formado pela Trybe em 2024, acumulo experiência prática em mais de 30 projetos, com ênfase em 10 aplicações front-end modernas. Meu percurso inclui desenvolvimento de aplicações full-stack, integração de APIs e otimização de interfaces responsivas. Atualmente, estou refinando conhecimentos em React e TypeScript por meio de projetos pessoais, com o objetivo de fortalecer meu portfólio e preparar-me para desafios profissionais em equipes ágeis.
 
 - **Idiomas:** Português (nativo), Inglês (intermediário)
 - **Foco Atual:** Revisão de conceitos full-stack para entrevistas júnior, com ênfase em Node.js, Express, Prisma e React.

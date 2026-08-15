@@ -15,7 +15,7 @@
 Formado pela Trybe em 2024, com experiência prática em mais de 30 projetos — 10 deles aplicações front-end modernas. Atualmente aprofundando conhecimentos em **React, TypeScript, Next.js e Prisma** através de projetos autorais, construindo uma base sólida para atuar como desenvolvedor full-stack em equipes ágeis.
 
 - **Idiomas:** Português (nativo) · Inglês (intermediário)
-- **Foco Atual:** LinkForge (projeto full-stack autoral) · Next.js · revisão das stacks já dominadas para entrevistas técnicas
+- **Foco Atual:** LinkForge (projeto full-stack autoral) · Next.js · Revisão das stacks já dominadas para entrevistas técnicas ·
 
 <br>
 

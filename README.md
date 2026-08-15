@@ -4,6 +4,8 @@
 
 ### Full-Stack Developer · Front-End Focus
 
+*Interfaces intuitivas, back-end sólido, aplicações reais em produção.*
+
 </div>
 
 <br>
@@ -19,29 +21,14 @@ Formado pela Trybe em 2024, com experiência prática em mais de 30 projetos —
 
 ## Tech Stack
 
-**Front-End**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,sqlite,redis,docker&theme=dark" />
 
-**Back-End**
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
 <div align="center">
 
@@ -66,6 +53,13 @@ Formado pela Trybe em 2024, com experiência prática em mais de 30 projetos —
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Unix Shell](https://img.shields.io/badge/Unix_Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Ambiente & Produtividade**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
 **Eletiva .NET**
 
@@ -94,19 +88,6 @@ Formado pela Trybe em 2024, com experiência prática em mais de 30 projetos —
 ![Agile](https://img.shields.io/badge/Metodologias_Ágeis-blueviolet?style=for-the-badge)
 
 </details>
-
-</div>
-
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagnerRodrigues181&layout=compact&theme=dark&hide_border=true&bg_color=0D1321&title_color=2DD4BF&text_color=E0E0E0" alt="Top Languages" />
-
-<!-- Se o card acima não carregar (instância pública do Vercel instável), troque pela alternativa abaixo: -->
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WagnerRodrigues181&layout=compact&theme=dark&hide_border=true&bg_color=0D1321&title_color=2DD4BF&text_color=E0E0E0" alt="Top Languages" /> -->
 
 </div>
 
@@ -156,10 +137,10 @@ Aplicação para acompanhamento de rotina e progresso, com arquitetura em camada
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=WagnerStephan&theme=dark&border_color=2DD4BF&background=0D1321&title_color=2DD4BF&text_color=E0E0E0)](https://leetcode.com/WagnerStephan)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/WagnerStephan?theme=dark&font=Karla&ext=contest)](https://leetcode.com/u/WagnerStephan/)
 
-<!-- Se o card acima não carregar (instância pública do Vercel instável), troque pela alternativa abaixo: -->
-<!-- [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=WagnerStephan&theme=Dark)](https://leetcode.com/WagnerStephan) -->
+<!-- Se o card acima não carregar, troque pela alternativa abaixo: -->
+<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/WagnerStephan?theme=dark&font=Karla)](https://leetcode.com/u/WagnerStephan/) -->
 
 </div>
 

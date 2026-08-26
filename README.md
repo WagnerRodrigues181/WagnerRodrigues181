@@ -129,21 +129,6 @@ Aplicação para acompanhamento de rotina e progresso, com arquitetura em camada
 </tr>
 </table>
 
-</div>
-
-<br>
-
-## LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/WagnerStephan?theme=dark&font=Karla&ext=contest)](https://leetcode.com/u/WagnerStephan/)
-
-<!-- Se o card acima não carregar, troque pela alternativa abaixo: -->
-<!-- [![LeetCode Stats](https://leetcard.jacoblin.cool/WagnerStephan?theme=dark&font=Karla)](https://leetcode.com/u/WagnerStephan/) -->
-
-</div>
-
 <br>
 
 ## Contato
